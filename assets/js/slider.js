@@ -1,8 +1,8 @@
 const images = [
-  '/assets/images/malioboro.jpg',
-  '/assets/images/prambanan.jpg',
-  '/assets/images/tugu.jpg',
-  '/assets/images/tugu-kecil.jpg',
+  'assets/images/malioboro.jpg',
+  'assets/images/prambanan.jpg',
+  'assets/images/tugu.jpg',
+  'assets/images/tugu-kecil.jpg',
 ]
 
 let key = 0
